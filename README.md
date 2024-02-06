@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working at KPMG
-- 🌱 I’m currently learning Latest Trends in .Net,.NET CORE $ ML
+- 🌱 I’m currently learning Latest Trends in .Net,.NET CORE,AZURE $ ML
 - 👯 I’m looking to collaborate with a mobile developer to complete my personal Project <b>FAKE BUSTER</b>
 - 💬 Ask me about  Ask me about .NET, ASP.NET MVC,C#
 - 📫 How to reach me: Email to arunantonyholmes@gmail.com
